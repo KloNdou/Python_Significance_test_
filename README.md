@@ -1,6 +1,16 @@
-# Disease Element Analysis Project
-## Overview
-This project analyzes a dataset containing information about a specific disease over the course of a year. The goal is to understand the significance of different elements related to the disease using statistical analysis and data visualization techniques.
+# Healthcare Disease Element Statistical Analysis
+## Tools
+Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Regression Modelling
+
+Conducted a statistical analysis on annual disease-related data to identify significant variables, correlations, and patterns that could inform healthcare decision-making.
+
+## Key Contributions & Results:
+
+* Performed descriptive statistics, correlation analysis, Chi-square tests, t-tests, and regression modelling to evaluate relationships between disease elements.
+* Identified statistically significant associations, providing data-backed insights for targeted interventions.
+* Visualised relationships and distributions using correlation heatmaps, scatter plots, and regression charts to support interpretation.
+* Proposed extending the study to multi-year datasets and incorporating predictive models to anticipate trends and improve forecasting.
+
 
 ### Key Features
 *Data cleaning and preparation
@@ -8,12 +18,6 @@ This project analyzes a dataset containing information about a specific disease 
 *Statistical tests to determine significance
 *Visualization of relationships and trends
 
-### Technologies Used
-*Python
-*Pandas for data manipulation
-*NumPy for numerical computing
-*SciPy for statistical tests
-*Seaborn and Matplotlib for data visualization
 
 
 ### Analysis Performed
